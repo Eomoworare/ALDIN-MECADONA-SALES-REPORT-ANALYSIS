@@ -1,1 +1,1 @@
-# ALDIN-MECADONA-SALES-REPORT-ANALYSIS
+Aldin Mecadona has recorded sales on their products for a period of 6 years between 2011-2016. This analyzed sales report giveS key information on the next new frontier for profits and scale in high performing markets.# ALDIN-MECADONA-SALES-REPORT-ANALYSIS
