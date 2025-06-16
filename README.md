@@ -15,6 +15,8 @@ revenue steadily.
  In the year 2016 compared to 2015, Aldin experienced a decline in revenue from $20 million 
 to $17 million.
 
+![Image](https://github.com/user-attachments/assets/a5ebdb4e-491f-4217-8969-9ac288da0286)
+
  RECOMMENDATION 
 
 (A) REVENUE:  
@@ -43,7 +45,5 @@ and Profits over the 6-year period which forecasts hotspots for increased revenu
 and other profitable markets based on demographic and locations that the 
 company can explore for expansion and growth. 
 
-
-![Image](https://github.com/user-attachments/assets/a5ebdb4e-491f-4217-8969-9ac288da0286)
 
 
